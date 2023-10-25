@@ -1,0 +1,37 @@
+{
+    "song1" : {
+       "song" : "Midnight Rain",
+       "artist" : "Taylor Swift",
+       "genre" : "Pop",
+       "link": "https://www.youtube.com/watch?v=Odh9ddPUkEY"
+    },
+
+    "song2" : {
+        "song" : "Getaway Car",
+        "artist" : "Taylor Swift",
+        "genre" : "Pop/Country",
+        "link": "https://www.youtube.com/watch?v=FhPLQVlUiNQ"
+     },
+     
+     "song3" : {
+        "song" : "All Too Well",
+        "artist" : "Taylor Swift",
+        "genre" : "Pop/Country",
+        "link": "https://www.youtube.com/watch?v=sRxrwjOtIag"
+     },
+
+     "song4" : {
+        "song" : "Paper Rings",
+        "artist" : "Taylor Swift",
+        "genre" : "Pop",
+        "link": "https://www.youtube.com/watch?v=8zdg-pDF10g"
+     },
+
+     "song5" : {
+        "song" : "Foolish One",
+        "artist" : "Taylor Swift",
+        "genre" : "Country",
+        "link": "https://www.youtube.com/watch?v=6-x1AlDudZw"
+     }
+
+}
